@@ -6,7 +6,7 @@
     <br>
 </h1>
 <a href="https://pollens.app/">
-    <img alt="Pollens logo" src="https://i.imgur.com/jKai3QM.png" style="width: 100%">
+    <img alt="Pollens logo" src="https://i.imgur.com/nJmaajS.png" style="width: 100%">
 </a>
 <br/>
 <p align="center">
@@ -27,10 +27,9 @@
 </div>
 <br/>
 
-[![Releases](https://img.shields.ai/github/downloads/toeverything/AFFiNE/total)]()
-[![All Contributors][all-contributors-badge]]()
-[![TypeScript-version-icon]]()
-[![Rust-version-icon]]()
+[![Releases](https://img.shields.io/github/downloads/toeverything/AFFiNE/total)](https://github.com/toeverything/AFFiNE/releases/latest)
+[![All Contributors][all-contributors-badge]](#contributors)
+[![TypeScript-version-icon]](https://www.typescriptlang.org/)
 
 </div>
 
@@ -45,7 +44,7 @@
 
 Star us, and you will receive all release notifications from GitHub without any delay!
 
-<img src="https://i.ibb.co/mHd9nMH/13.gif" style="width: 100%"/>
+<img src="https://i.ibb.co/ZJPrVVk/13.gif" style="width: 100%"/>
 
 ## What is Pollens
 
