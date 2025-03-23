@@ -20,7 +20,7 @@
 
 <div align="center">
     <a href="https://pollens.io/">Home Page</a> |
-    <a href="https://x.com/pollensapp">Twitter</a> |
+    <a href="https://x.com/Pollens_app">Twitter</a> |
     <a href="https://t.me/PollensAI">Telegram</a> |
     <a href="https://medium.com/@Pollens">Medium</a> |
     <a href="https://pollens.io">Documentation</a>
