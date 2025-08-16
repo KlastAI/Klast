@@ -1,12 +1,12 @@
 <div align="center">
 
 <h1 style="border-bottom: none">
-    <b><a href="https://pollens.tech/">Pollens</a></b><br />
+    <b><a href="https://klast.ai/">Klast</a></b><br />
     Write, Draw and Plan All at Once
     <br>
 </h1>
-<a href="https://pollens.tech/">
-    <img alt="Pollens logo" src="https://i.imgur.com/nJmaajS.png" style="width: 100%">
+<a href="https://klast.ai/">
+    <img alt="Klast logo" src="https://i.imgur.com/nJmaajS.png" style="width: 100%">
 </a>
 <br/>
 <p align="center">
@@ -19,11 +19,10 @@
 <br/>
 
 <div align="center">
-    <a href="https://pollens.tech/">Home Page</a> |
-    <a href="https://x.com/Pollens_app">Twitter</a> |
-    <a href="https://t.me/PollensAI">Telegram</a> |
-    <a href="https://medium.com/@Pollens">Medium</a> |
-    <a href="https://pollens.tech">Documentation</a>
+    <a href="https://klast.ai/">Home Page</a> |
+    <a href="https://x.com/klastai">Twitter</a> |
+    <a href="https://medium.com/@KlastAI">Medium</a> |
+    <a href="https://klast.ai">Documentation</a>
 </div>
 <br/>
 
@@ -34,7 +33,7 @@
 
 <br />
 <div align="center">
-<em>Docs, canvas and tables are hyper-merged with Pollens</em>
+<em>Docs, canvas and tables are hyper-merged with Klast</em>
 </div>
 <br />
 
@@ -45,27 +44,27 @@ Star us, and you will receive all release notifications from GitHub without any 
 
 <img src="https://i.ibb.co/ZJPrVVk/13.gif" style="width: 100%"/>
 
-## What is Pollens
+## What is Klast
 
-Pollens is an open-source, all-in-one workspace and an operating system for all the building blocks that assemble your knowledge base and much more -- wiki, knowledge management, presentation and digital assets. It's a better alternative to Notion and Miro.
+Klast is an open-source, all-in-one workspace and an operating system for all the building blocks that assemble your knowledge base and much more -- wiki, knowledge management, presentation and digital assets. It's a better alternative to Notion and Miro.
 
 ## Features
 
 **A true canvas for blocks in any form. Docs and whiteboard are now fully merged.**
 
-- Many editor apps claim to be a canvas for productivity, but Pollens is one of the very few which allows you to put any building block on an edgeless canvas -- rich text, sticky notes, any embedded web pages, multi-view databases, linked pages, shapes and even slides. We have it all.
+- Many editor apps claim to be a canvas for productivity, but Klast is one of the very few which allows you to put any building block on an edgeless canvas -- rich text, sticky notes, any embedded web pages, multi-view databases, linked pages, shapes and even slides. We have it all.
 
 **Multimodal AI partner ready to kick in any work**
 
-- Write up professional work report? Turn an outline into expressive and presentable slides? Summary an article into a well-structured mindmap? Sorting your job plan and backlog for tasks? Or... draw and code prototype apps and web pages directly all with one prompt? With you, Pollens AI pushes your creativity to the edge of your imagination.
+- Write up professional work report? Turn an outline into expressive and presentable slides? Summary an article into a well-structured mindmap? Sorting your job plan and backlog for tasks? Or... draw and code prototype apps and web pages directly all with one prompt? With you, Klast AI pushes your creativity to the edge of your imagination.
 
 **Local-first & Real-time collaborative**
 
-- We love the idea of local-first that you always own your data on your disk, in spite of the cloud. Furthermore, Pollens supports real-time sync and collaborations on web and cross-platform clients.
+- We love the idea of local-first that you always own your data on your disk, in spite of the cloud. Furthermore, Klast supports real-time sync and collaborations on web and cross-platform clients.
 
-**Self-host & Shape your own Pollens**
+**Self-host & Shape your own Klast**
 
-- You have the freedom to manage, self-host, fork and build your own Pollens. Plugin community and third-party blocks are coming soon. More tractions on Blocksuite.
+- You have the freedom to manage, self-host, fork and build your own Klast. Plugin community and third-party blocks are coming soon. More tractions on Blocksuite.
 
 ## Acknowledgement
 
@@ -79,36 +78,36 @@ Pollens is an open-source, all-in-one workspace and an operating system for all 
 
 There is a large overlap of their atomic “building blocks” between these apps. They are not open source, nor do they have a plugin system like Vscode for contributors to customize. We want to have something that contains all the features we love and also goes one step even further.
 
-Thanks for checking us out, we appreciate your interest and sincerely hope that Pollens resonates with you! 🎵 Checking pollens.tech for more details ions.
+Thanks for checking us out, we appreciate your interest and sincerely hope that Klast resonates with you! 🎵 Checking klast.ai for more details ions.
 
 ## Contributing
 
 | Bug Reports                                                                                                                                         | Feature Requests                                                                                                                                               | Questions                                                       | 
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [Create a bug report](https://github.com/pollensai/pollens/issues/new?assignees=&labels=bug%2Cproduct-review&template=BUG-REPORT.yml&title=TITLE) | [Submit a feature request](https://github.com/havespaceai/havespace/issues/new?assignees=&labels=feat%2Cproduct-review&template=FEATURE-REQUEST.yml&title=TITLE) | [Send us an Email](https://pollens.tech) |           |
-| Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | contact@pollens.tech                                                    |
+| [Create a bug report](https://github.com/klastai/klast/issues/new?assignees=&labels=bug%2Cproduct-review&template=BUG-REPORT.yml&title=TITLE) | [Submit a feature request](https://github.com/havespaceai/havespace/issues/new?assignees=&labels=feat%2Cproduct-review&template=FEATURE-REQUEST.yml&title=TITLE) | [Send us an Email](https://klast.ai) |           |
+| Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | contact@klast.ai                                                    |
 
 Calling all developers, testers, tech writers and more! Contributions of all types are more than welcome, you can read more in [docs/types-of-contributions.md](docs/types-of-contributions.md). If you are interested in contributing code, read our [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) and feel free to check out our GitHub issues to get stuck in to show us what you’re made of.
 
 **Before you start contributing, please make sure you have read and accepted our Contributor License Agreement. To indicate your agreement, simply edit this file and submit a pull request.**
 
-For **bug reports**, **feature requests** and other **suggestions** you can also [create a new issue](https://github.com/pollensai/pollens/issues/new/choose) and choose the most appropriate template for your feedback.
+For **bug reports**, **feature requests** and other **suggestions** you can also [create a new issue](https://github.com/klastai/klast/issues/new/choose) and choose the most appropriate template for your feedback.
 
 
 
-If you have questions, you are welcome to contact us. One of the best places to get more info and learn more is in the [Pollens](https://pollensai) where you can engage with other like-minded individuals.
+If you have questions, you are welcome to contact us. One of the best places to get more info and learn more is in the [Klast](https://klast.ai) where you can engage with other like-minded individuals.
 
 ## Ecosystem
 
 | Name                                             |                            |                                                                                                                                         |
 | ------------------------------------------------ | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| [@Pollens/component](packages/frontend/component) | Pollens Component Resources | ![](https://img.shields.ai/codecov/c/github/toeverything/affine?style=flat-square)                                                      |
-| [@PollensAI/theme](packages/common/theme)     | Pollens theme               | [![](https://img.shields.ai/npm/dm/@toeverything/theme?style=flat-square&color=eee)](https://www.npmjs.com/package/@toeverything/theme) |
+| [@klast/component](packages/frontend/component) | Klast Component Resources | ![](https://img.shields.ai/codecov/c/github/toeverything/affine?style=flat-square)                                                      |
+| [@klastai/theme](packages/common/theme)     | Klast theme               | [![](https://img.shields.ai/npm/dm/@toeverything/theme?style=flat-square&color=eee)](https://www.npmjs.com/package/@toeverything/theme) |
 
 
 ## Contributors
 
-We would like to express our gratitude to all the individuals who have already contributed to Pollens! If you have any Pollens-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: [awesome-Pollens](https://github.com/PollensAI/Pollens).
+We would like to express our gratitude to all the individuals who have already contributed to Klast! If you have any Klast-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: [awesome-Klast](https://github.com/KlastAI/Klast).
 
 <a href="">
   <img alt="contributors" src="https://opencollective.com/affine/contributors.svg?width=890&button=false" />
@@ -116,26 +115,26 @@ We would like to express our gratitude to all the individuals who have already c
 
 ## Self-Host
 
-Begin with Docker to deploy your own feature-rich, unrestricted version of Pollens. Our team is diligently updating to the latest version. For more information on how to self-host Pollens, please refer to our [documentation](https://pollens.tech/).
+Begin with Docker to deploy your own feature-rich, unrestricted version of Klast. Our team is diligently updating to the latest version. For more information on how to self-host Klast, please refer to our [documentation](https://klast.ai/).
 
 ## Hiring
 
-Some amazing companies, including Pollens, are looking for developers! Are you interested in joining Pollens or its partners? Check out our Discord channel for some of the latest jobs available.
+Some amazing companies, including Klast, are looking for developers! Are you interested in joining Klast or its partners? Check out our Discord channel for some of the latest jobs available.
 
 ## Email
 
-For questions and suggestions, please use this email [contact@pollens.tech]
+For questions and suggestions, please use this email [contact@klast.ai]
 
 ## Building
 
 ### Codespaces
 
 From the GitHub repo main page, click the green "Code" button and select "Create codespace on master". This will open a new Codespace with the (supposedly auto-forked
-Pollens repo cloned, built, and ready to go.
+Klast repo cloned, built, and ready to go.
 
 ### Local
 
-See [BUILDING.md] for instructions on how to build Pollens from source code.
+See [BUILDING.md] for instructions on how to build Klast from source code.
 
 ## Contributing
 
