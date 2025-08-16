@@ -6,7 +6,7 @@
     <br>
 </h1>
 <a href="https://klast.ai/">
-    <img alt="Klast logo" src="https://i.imgur.com/nJmaajS.png" style="width: 100%">
+    <img alt="Klast logo" src="https://i.ibb.co/DNjH2H3/klastss.png" style="width: 100%">
 </a>
 <br/>
 <p align="center">
